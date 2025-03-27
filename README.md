@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vivek-rawat33
 - 👀 I’m interested in ... web dev
-- 🌱 I’m currently learning ...html. css . javascript. react 
+- 🌱 I’m currently learning ...html. css . javascript. react ,nodejs , expressjs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... viveksr002@gmail.com
 - 😄 Pronouns: ...

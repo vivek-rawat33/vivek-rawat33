@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @vivek-rawat33
-- 👀 I’m interested in ... web dev
-- 🌱 I’m currently learning ...html. css . javascript. react ,nodejs , expressjs
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... viveksr002@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hi, I’m Vivek Rawat 👋
+🔹 Aspiring Web Developer | Passionate about building interactive and dynamic web applications
 
-<!---
-vivek-rawat33/vivek-rawat33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 Interested in: Full-Stack Web Development
+🌱 Currently Learning: HTML, CSS, JavaScript, React, Node.js, Express.js
+💡 Exploring: Backend development and modern web frameworks
+💞️ Open to Collaboration: Excited to work on open-source projects and web-based applications
+📫 How to Reach Me: viveksr002@gmail.com
+
+🚀 Let's build something amazing together!
+

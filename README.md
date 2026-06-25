@@ -5,7 +5,7 @@ Hi, I’m Vivek Rawat 👋
 🌱 Currently Learning: HTML, CSS, JavaScript, React, Node.js, Express.js , Tailwind css , zod , jwt , Typescript
 💡 Exploring: Backend development and modern web frameworks
 💞️ Open to Collaboration: Excited to work on open-source projects and web-based applications
-📫 How to Reach Me: viveksr002@gmail.com
+📫 How to Reach Me: viveksrofficialwork@gmail.com
 
 https://portfolio-personal-dev-iota.vercel.app/ here is my portfolio link
 🚀 Let's build something amazing together!
